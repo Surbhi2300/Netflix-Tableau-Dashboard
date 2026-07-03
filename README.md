@@ -1,27 +1,31 @@
 # Netflix Content Analytics Dashboard
 
-## Project Overview
+## Overview
 
-This Tableau dashboard analyzes Netflix Movies and TV Shows using interactive visualizations.
+An interactive Tableau dashboard analyzing Netflix Movies and TV Shows using various visualizations and filters.
 
-## Dashboard Features
+## Features
 
-- Filter by Movie/TV Show
-- Filter by Title
-- Country-wise Content Distribution
-- Ratings Distribution
+- Interactive filters by Title and Type
+- Country-wise distribution of Netflix content
+- Movies vs TV Shows comparison
+- Ratings distribution
 - Top 10 Genres
-- Movies vs TV Shows
-- Release Year Trend
+- Release year trends
+- Dynamic dashboard built in Tableau
 
 ## Tools Used
 
-- Tableau
-- Excel / CSV
+- Tableau Public
+- Microsoft Excel / CSV
+
+## Live Dashboard
+
+https://public.tableau.com/app/profile/surbhi.aglawe5135/viz/NetflixDashboard_17831101697630/Netflix?publish=yes
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+(Add dashboard.png here)
 
 ## Dataset
 
@@ -29,7 +33,7 @@ Netflix Titles Dataset
 
 ## Key Insights
 
-- Movies account for over 68% of Netflix titles.
-- TV-14 is the most common rating.
-- The United States has the largest Netflix catalog.
-- Documentaries are among the most common genres.
+- Movies account for 68.42% of Netflix titles.
+- TV-14 is the most common content rating.
+- The United States has the highest number of titles.
+- Documentaries are among the most frequent genres.
